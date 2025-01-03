@@ -101,6 +101,9 @@ Uygulamayı başlattığınızda karşınıza bu giriş ekranı gelir. Burada:
 - Giriş bilgilerinizi doğru bir şekilde girdikten sonra, ana menüye yönlendirilirsiniz. Eğer bilgileriniz hatalıysa, sistem size hata mesajı gösterir.
 
 
-![Giriş Ekranı](zenity/giris.png)
+
+<div align="center">
+  <img src="zenity/giris.png" alt="Giriş Ekranı" width="300">
+</div>
 
 
