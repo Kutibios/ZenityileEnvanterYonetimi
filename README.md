@@ -72,8 +72,8 @@ Uygulamanın çalışması için aşağıdaki yazılımların sisteminizde yükl
 
 
 #### Uygulama Dosyaların İndirme
-git clone https://github.com/Kutibios/ZenityileEnvanterYonetimi.git
-cd ZenityileEnvanterYonetimi
+- git clone https://github.com/Kutibios/ZenityileEnvanterYonetimi.git
+- cd ZenityileEnvanterYonetimi
 
 #### Çalıştırma İzni Verin
 - chmod +x ana_menu.sh
