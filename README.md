@@ -11,7 +11,7 @@ Karmaşık işlemleri kolaylaştıran, kullanıcı dostu bir arayüze sahip olan
 
 Bu proje aşağıdaki dosya ve klasörlerden oluşmaktadır:
 
-### 1. **`ana_menu.sh`**
+###  **`ana_menu.sh`**
 -  Uygulamanın ana çalıştırma dosyasıdır. Kullanıcı girişinden başlayarak ana menüyü ve tüm işlemleri yönetir.
 - **İçerdiği İşlevler:**
   - Kullanıcı girişi
@@ -20,7 +20,7 @@ Bu proje aşağıdaki dosya ve klasörlerden oluşmaktadır:
   - Kullanıcı yönetimi ve şifre sıfırlama
   - Program yönetimi (yedekleme ve hata kayıtlarını görüntüleme)
  
-### 2. **`kullanici.csv`**
+###  **`kullanici.csv`**
 -  Sistemdeki kullanıcı bilgilerini saklar.
 - **İçerik Formatı:**
   ```csv
@@ -429,8 +429,8 @@ Bu iki ekran, kullanıcı giriş işlemleri sırasında ve yetki kontrolü esnas
 
 
 <div align="center">
-  <img src="kullanicigiris.png" alt="Giriş Başarılı" width="300">
-  <img src="yetkiyok.png" alt="Yetki Uyarısı" width="300">
+  <img src="zenity/kullanicigiris.png" alt="Giriş Başarılı" width="300">
+  <img src="zenity/yetkiyok.png" alt="Yetki Uyarısı" width="300">
 </div>
 
 ---
