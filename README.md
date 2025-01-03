@@ -81,5 +81,12 @@ Uygulamanın çalışması için aşağıdaki yazılımların sisteminizde yükl
 ### Uygulamayı Başlatın
 - ./ana_menu.sh
 
+## NOT 
+Varsayılan yönetici kullanıcı adı ve şifresi:
+
+    Kullanıcı Adı: root
+    Şifre: 1234
+
+    
 
 
