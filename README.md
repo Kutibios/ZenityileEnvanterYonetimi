@@ -66,9 +66,20 @@ Uygulamanın çalışması için aşağıdaki yazılımların sisteminizde yükl
 - **`md5sum`** komutu (şifreleme için)
 
 #### Zenity Yükleme
- Zenity yüklü değilse aşağıdaki komut ile yükleyebilirsiniz:
- ```bash
- sudo apt install zenity
+-  Zenity yüklü değilse aşağıdaki komut ile yükleyebilirsiniz:
+     ```bash
+     sudo apt install zenity
 
-# Uygulama
+
+#### Uygulama Dosyaların İndirme
+git clone https://github.com/Kutibios/ZenityileEnvanterYonetimi.git
+cd ZenityileEnvanterYonetimi
+
+#### Çalıştırma İzni Verin
+- chmod +x ana_menu.sh
+
+### Uygulamayı Başlatın
+- ./ana_menu.sh
+
+
 
