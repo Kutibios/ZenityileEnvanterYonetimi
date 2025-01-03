@@ -52,3 +52,23 @@ Bu proje aşağıdaki dosya ve klasörlerden oluşmaktadır:
   hata_no,tarih,saat,kullanici,hata_mesaji,urun_bilgisi
   1,2024-12-29,15:45:10,user1,Hatalı şifre girildi,Yok
   2,2024-12-29,15:50:00,admin,Ürün güncelleme hatası,Kalem
+
+
+
+## Kurulum ve Başlangıç
+
+Bu bölümde, **Envanter Yönetim Sistemi**'ni çalıştırmak için gereken adımlar açıklanmıştır. Aşağıdaki adımları izleyerek uygulamayı sisteminizde kolayca çalıştırabilirsiniz.
+
+### 1. Sistem Gereksinimleri
+Uygulamanın çalışması için aşağıdaki yazılımların sisteminizde yüklü olması gerekmektedir:
+- **Bash Shell** (Linux/Unix tabanlı sistemler için varsayılan)
+- **Zenity** (Grafik kullanıcı arayüzü bileşenlerini göstermek için)
+- **`md5sum`** komutu (şifreleme için)
+
+#### Zenity Yükleme
+ Zenity yüklü değilse aşağıdaki komut ile yükleyebilirsiniz:
+ ```bash
+ sudo apt install zenity
+
+# Uygulama
+
