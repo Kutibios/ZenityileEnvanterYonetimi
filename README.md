@@ -106,4 +106,65 @@ Uygulamayı başlattığınızda karşınıza bu giriş ekranı gelir. Burada:
   <img src="zenity/giris.png" alt="Giriş Ekranı" width="300">
 </div>
 
+### Giriş Başarılı Mesajı
+
+Başarılı bir giriş yaptığınızda karşınıza bu bilgi mesajı gelir. Bu mesaj, sisteme başarılı bir şekilde giriş yaptığınızı ve hangi rolde olduğunuzu belirtir.
+
+<div align="center">
+  <img src="zenity/kullanicirol.png" alt="Giriş Başarılı Mesajı" width="300">
+</div>
+
+### Ana Menü
+
+Giriş yaptıktan sonra, kullanıcı rolüne göre **Ana Menü** ekranı karşınıza gelir. Yönetici rolüyle giriş yaptığınızda, aşağıdaki seçeneklere erişebilirsiniz:
+
+- **Ürün Ekle**: Yeni ürün eklemek için bu seçeneği kullanabilirsiniz.
+- **Ürün Güncelle**: Mevcut bir ürünün bilgilerini güncelleyebilirsiniz.
+- **Ürün Sil**: İlgili ürünü envanterden kaldırabilirsiniz.
+- **Ürün Listele**: Sistemde kayıtlı olan tüm ürünleri listeleyebilirsiniz.
+- **Rapor Al**: Stok durumu veya yüksek stok miktarına göre raporlar alabilirsiniz.
+- **Şifre Sıfırla**: Kullanıcıların şifrelerini sıfırlamak için bu seçeneği kullanabilirsiniz.
+- **Kilitli Hesabı Aç**: Üç kez hatalı şifre nedeniyle kilitlenen hesapları açabilirsiniz.
+- **Hesapları Kontrol Et**: Kilitli hesapları listelemek ve kontrol etmek için kullanılır.
+- **Kullanıcı Yönetimi**: Yeni kullanıcı ekleme, mevcut kullanıcıları güncelleme veya silme işlemleri yapılabilir.
+- **Program Yönetimi**: Sisteme ait yedekleme, disk alanı görüntüleme ve hata kayıtlarını inceleme işlemleri için kullanılır.
+- **Çıkış**: Programdan çıkış yapmak için bu seçeneği kullanabilirsiniz.
+
+
+<div align="center">
+  <img src="zenity/anamenu.png" alt="Ana Menü" width="300">
+</div>
+
+**Not:**
+- Yönetici rolüne sahip kullanıcılar tüm bu seçeneklere erişebilir.
+- Eğer "kullanıcı" rolünde giriş yapmışsanız, yalnızca **Ürün Listele** ve **Rapor Al** seçeneklerini kullanabilirsiniz. Diğer seçeneklere tıklarsanız "Bu işlem için yetkiniz yok" uyarısı alırsınız.
+
+### Ürün Ekle
+
+Bu ekran, sisteme yeni bir ürün eklemek için kullanılır. Yönetici olarak giriş yaptığınızda **Ana Menü** üzerinden **Ürün Ekle** seçeneğini seçerek bu ekrana ulaşabilirsiniz.
+
+#### Form Alanları:
+1. **Ürün Adı**: Eklemek istediğiniz ürünün adı. Örneğin, "elma".
+2. **Stok Miktarı**: Ürünün başlangıç stok miktarı. Örneğin, "12".
+3. **Fiyat**: Ürünün birim fiyatı. Örneğin, "5.78".
+4. **Kategori**: Ürünün kategorisi. Örneğin, "meyve".
+
+
+
+<div align="center">
+  <img src="zenity/urunekle.png" alt="Ürün Ekle" width="300">
+</div>
+
+#### Notlar:
+- Girdiğiniz bilgilerin doğru olduğundan emin olun. 
+- **Ürün Adı** boşluk içeremez ve benzersiz olmalıdır (sistemde aynı isimde başka bir ürün bulunmamalıdır).
+- Stok miktarı ve fiyat yalnızca pozitif sayı olmalıdır (0 dahil).
+- Eğer yanlış veya eksik bilgi girilirse sistem uyarı verir ve ekleme işlemi tamamlanmaz.
+
+Bu ekran sayesinde yeni ürünler hızlı ve kolay bir şekilde sisteme eklenebilir.
+#### Ürün Eklendi Mesajı
+<div align="center">
+  <img src="zenity/eklemeonay.png" alt="Ekleme Onaylandı" width="300">
+</div>
+
 
