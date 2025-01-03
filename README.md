@@ -88,5 +88,19 @@ Varsayılan yönetici kullanıcı adı ve şifresi:
     Şifre: 1234
 
     
+## Uygulama Kullanımı ve Ekran Görüntüleri
+
+Bu bölümde, uygulamanın adım adım nasıl kullanılacağını ekran görüntüleriyle birlikte açıklıyoruz. Her bir görsel, uygulamanın farklı bir özelliğini ve kullanım şeklini göstermektedir.
+
+### Giriş Ekranı
+
+Uygulamayı başlattığınızda karşınıza bu giriş ekranı gelir. Burada:
+
+- **Kullanıcı Adı**: Sisteme giriş yapmak için kullanıcı adınızı yazmanız gereken alan.
+- **Şifre**: Sisteme giriş yapmak için şifrenizi yazmanız gereken alan.
+- Giriş bilgilerinizi doğru bir şekilde girdikten sonra, ana menüye yönlendirilirsiniz. Eğer bilgileriniz hatalıysa, sistem size hata mesajı gösterir.
+
+
+![Giriş Ekranı](zenity/giris.png)
 
 
