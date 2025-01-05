@@ -1,6 +1,6 @@
 # ENVANTER YÖNETİM SİSTEMİ
 
-## Basit, Etkili ve Kullanıcı Dostu Envanter Yönetimi
+
 
 Bu sistem, işletmelerin veya bireysel kullanıcıların ürünlerini etkili bir şekilde yönetmesini sağlar. Yönetici ve kullanıcı olmak üzere iki farklı rol sunarak, yetkilendirilmiş işlemleri kolayca yapmanıza olanak tanır.
 
