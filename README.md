@@ -9,6 +9,13 @@ Bu sistem, işletmelerin veya bireysel kullanıcıların ürünlerini etkili bir
 
 Karmaşık işlemleri kolaylaştıran, kullanıcı dostu bir arayüze sahip olan bu sistem, işletmenizin verimliliğini artırmayı hedefler. Kullanıcı giriş ekranından ürün raporlarına kadar her şey basit ve anlaşılır bir şekilde tasarlanmıştır.
 
+## Uygulama Tanıtım Videosu 🎥
+
+Bu uygulamanın detaylı tanıtımını ve kullanımını içeren videoya aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Uygulama Tanıtım Videosu için tıklayın](https://www.youtube.com/watch?v=We6UB-JSSDE)
+
+
 Bu proje aşağıdaki dosya ve klasörlerden oluşmaktadır:
 
 ###  **`ana_menu.sh`**
