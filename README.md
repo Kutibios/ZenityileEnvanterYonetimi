@@ -1,4 +1,4 @@
-#Github Repo linki
+# Github Repo linki
 https://github.com/Kutibios/ZenityileEnvanterYonetimi
 # ENVANTER YÖNETİM SİSTEMİ
 
